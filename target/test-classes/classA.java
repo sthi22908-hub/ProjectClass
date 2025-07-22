@@ -11,6 +11,20 @@ public class classA {
 
 	}
 	
+	private void america() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void canada() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void england() {
+		// TODO Auto-generated method stub
+
+	}
 	
 
 }
