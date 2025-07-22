@@ -26,5 +26,17 @@ public class classA {
 
 	}
 	
+	private void europe() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void egypt() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
+	
 
 }
